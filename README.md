@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AzharBasim
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Java and PHP
+- 🌱 I’m currently learning Javascript and PHP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
